@@ -2079,3 +2079,637 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.26-18.08.46:675][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 5.92 sec)
 [2023.08.26-18.08.46:678][731]AssetCheck: New page: Asset Save: Level_01
 [2023.08.26-18.08.46:678][731]LogContentValidation: Display: Validating /Script/Engine.World /Game/myFirstProject/Level_01.Level_01
+[2023.08.26-18.09.19:206][263]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.08.26-18.09.19:206][263]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.08.26-18.09.19:207][263]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/myFirstProject/Level_01.Level_01:PersistentLevel.StaticMeshActor_0
+[2023.08.26-18.09.19:207][263]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/myFirstProject/Level_01.Level_01:PersistentLevel.StaticMeshActor_0
+[2023.08.26-18.09.19:238][263]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.09.21:198][488]Cmd: TRANSACTION UNDO
+[2023.08.26-18.09.21:198][488]LogEditorTransaction: Undo Create Actor
+[2023.08.26-18.09.21:232][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.09.21:232][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.09.21:232][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.09.21:233][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.09.21:233][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.09.21:233][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.09.30:649][453]LogViewport: Scene viewport resized to 1045x902, mode Windowed.
+[2023.08.26-18.09.45:203][733]LogStaticMesh: Display: Building static mesh Box_F3E69C2C...
+[2023.08.26-18.09.45:205][733]LogStaticMesh: Built static mesh [0.00s] /Game/myFirstProject/_GENERATED/kobys/Box_F3E69C2C.Box_F3E69C2C
+[2023.08.26-18.09.45:211][733]LogStaticMesh: Display: Building static mesh Box_F3E69C2C...
+[2023.08.26-18.09.45:211][733]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/myFirstProject/_GENERATED/kobys/Box_F3E69C2C.Box_F3E69C2C
+[2023.08.26-18.09.45:212][733]LogActorFactory: Actor Factory spawned StaticMesh /Game/myFirstProject/_GENERATED/kobys/Box_F3E69C2C.Box_F3E69C2C as actor: StaticMeshActor /Game/myFirstProject/Level_01.Level_01:PersistentLevel.StaticMeshActor_1
+[2023.08.26-18.09.45:213][733]LogStaticMesh: Built static mesh [0.00s] /Game/myFirstProject/_GENERATED/kobys/Box_F3E69C2C.Box_F3E69C2C
+[2023.08.26-18.09.45:279][733]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.10.02:624][  1]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.08.26-18.10.07:501][584]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/myFirstProject/Level_01.Level_01:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0, from: Addition to navoctree)
+[2023.08.26-18.10.07:559][591]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/myFirstProject/Level_01.Level_01:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0, from: Remove from navoctree)
+[2023.08.26-18.10.08:284][678]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/myFirstProject/Level_01.Level_01:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0, from: Addition to navoctree)
+[2023.08.26-18.10.08:318][682]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/myFirstProject/Level_01.Level_01:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0, from: Remove from navoctree)
+[2023.08.26-18.10.09:788][857]Cmd: TRANSACTION UNDO
+[2023.08.26-18.10.09:788][857]LogEditorTransaction: Undo Scale Elements
+[2023.08.26-18.10.09:821][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.10.09:821][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.10.09:821][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.10.09:822][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.10.09:822][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.10.09:822][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.10.09:822][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.10.30:166][235]Cmd: TRANSACTION UNDO
+[2023.08.26-18.10.30:166][235]LogEditorTransaction: Undo Transform
+[2023.08.26-18.10.30:195][235]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.10.30:195][235]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.10.30:195][235]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.10.30:195][235]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.10.30:196][235]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.10.30:196][235]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.10.30:196][235]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.10.45:278][  2]Cmd: TRANSACTION UNDO
+[2023.08.26-18.10.45:279][  2]LogEditorTransaction: Undo Transform
+[2023.08.26-18.10.45:310][  2]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.10.45:311][  2]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.10.45:311][  2]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.10.45:311][  2]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.10.45:312][  2]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.10.45:312][  2]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.10.45:312][  2]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.10.50:006][527]LogStaticMesh: Display: Building static mesh Box_F3E69C2C...
+[2023.08.26-18.10.50:007][527]LogStaticMesh: Built static mesh [0.00s] /Game/myFirstProject/_GENERATED/kobys/Box_F3E69C2C.Box_F3E69C2C
+[2023.08.26-18.10.52:614][836]LogStaticMesh: Display: Building static mesh Box_F3E69C2C...
+[2023.08.26-18.10.52:615][836]LogStaticMesh: Built static mesh [0.00s] /Game/myFirstProject/_GENERATED/kobys/Box_F3E69C2C.Box_F3E69C2C
+[2023.08.26-18.11.05:801][187]LogStaticMesh: Display: Building static mesh Box_F3E69C2C...
+[2023.08.26-18.11.05:803][187]LogStaticMesh: Built static mesh [0.00s] /Game/myFirstProject/_GENERATED/kobys/Box_F3E69C2C.Box_F3E69C2C
+[2023.08.26-18.11.10:392][712]Cmd: TRANSACTION UNDO
+[2023.08.26-18.11.10:392][712]LogEditorTransaction: Undo Transform
+[2023.08.26-18.11.10:440][712]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.11.10:440][712]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.11.10:441][712]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.11.10:442][712]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.11.10:442][712]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.11.10:442][712]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.11.10:442][712]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.11.22:930][642]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2023.08.26-18.11.42:024][227]LogViewport: Scene viewport resized to 1526x585, mode Windowed.
+[2023.08.26-18.11.51:499][300]LogEditorViewport: Clicking Background
+[2023.08.26-18.11.57:415][715]LogViewport: Scene viewport resized to 1014x376, mode Windowed.
+[2023.08.26-18.13.41:021][ 94]LogViewport: Scene viewport resized to 1526x585, mode Windowed.
+[2023.08.26-18.13.41:058][ 94]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.13.41:058][ 94]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.13.41:059][ 94]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.13.41:059][ 94]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.14.10:520][ 44]LogSlate: Took 0.000354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.08.26-18.14.17:843][402]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 S:/Epic Games/UE_5.2/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.08.26-18.14.17:866][402]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2023.08.26-18.14.17:872][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+[2023.08.26-18.14.17:877][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+[2023.08.26-18.14.17:883][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Maps/ThirdPersonMap.umap" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
+[2023.08.26-18.14.17:896][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset"
+[2023.08.26-18.14.17:901][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/IMC_Default.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/ThirdPerson/Input/IMC_Default.uasset"
+[2023.08.26-18.14.17:906][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/Actions/IA_Jump.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/ThirdPerson/Input/Actions/IA_Jump.uasset"
+[2023.08.26-18.14.17:910][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/Actions/IA_Look.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/ThirdPerson/Input/Actions/IA_Look.uasset"
+[2023.08.26-18.14.17:914][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Input/Actions/IA_Move.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/ThirdPerson/Input/Actions/IA_Move.uasset"
+[2023.08.26-18.14.17:919][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset"
+[2023.08.26-18.14.17:925][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset"
+[2023.08.26-18.14.17:929][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset"
+[2023.08.26-18.14.17:933][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset"
+[2023.08.26-18.14.17:938][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset"
+[2023.08.26-18.14.17:943][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset"
+[2023.08.26-18.14.17:948][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset"
+[2023.08.26-18.14.17:953][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset"
+[2023.08.26-18.14.17:956][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset"
+[2023.08.26-18.14.17:961][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset"
+[2023.08.26-18.14.17:965][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset"
+[2023.08.26-18.14.17:970][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset"
+[2023.08.26-18.14.17:974][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset"
+[2023.08.26-18.14.17:979][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset"
+[2023.08.26-18.14.17:984][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset"
+[2023.08.26-18.14.17:989][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset"
+[2023.08.26-18.14.17:994][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset"
+[2023.08.26-18.14.17:999][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset"
+[2023.08.26-18.14.18:005][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset"
+[2023.08.26-18.14.18:010][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset"
+[2023.08.26-18.14.18:015][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset"
+[2023.08.26-18.14.18:020][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset"
+[2023.08.26-18.14.18:023][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset"
+[2023.08.26-18.14.18:028][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset"
+[2023.08.26-18.14.18:033][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset"
+[2023.08.26-18.14.18:037][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset"
+[2023.08.26-18.14.18:041][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset"
+[2023.08.26-18.14.18:046][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset"
+[2023.08.26-18.14.18:050][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset"
+[2023.08.26-18.14.18:054][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset"
+[2023.08.26-18.14.18:059][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset"
+[2023.08.26-18.14.18:063][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset"
+[2023.08.26-18.14.18:068][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset"
+[2023.08.26-18.14.18:072][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset"
+[2023.08.26-18.14.18:078][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset"
+[2023.08.26-18.14.18:083][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset"
+[2023.08.26-18.14.18:088][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset"
+[2023.08.26-18.14.18:092][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset"
+[2023.08.26-18.14.18:096][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset"
+[2023.08.26-18.14.18:101][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset"
+[2023.08.26-18.14.18:105][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset"
+[2023.08.26-18.14.18:109][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset"
+[2023.08.26-18.14.18:114][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset"
+[2023.08.26-18.14.18:118][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset"
+[2023.08.26-18.14.18:124][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset"
+[2023.08.26-18.14.18:129][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset"
+[2023.08.26-18.14.18:134][402]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset" to "C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset"
+[2023.08.26-18.14.18:589][402]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2023.08.26-18.14.18:598][402]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2023.08.26-18.14.18:605][402]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump
+[2023.08.26-18.14.18:615][402]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Land.MM_Land
+[2023.08.26-18.14.18:620][402]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd
+[2023.08.26-18.14.18:624][402]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2023.08.26-18.14.18:633][402]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.MM_Walk_InPlace
+[2023.08.26-18.14.18:702][402]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Idle.MF_Idle
+[2023.08.26-18.14.18:709][402]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.MF_Run_Fwd
+[2023.08.26-18.14.18:716][402]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.MF_Walk_Fwd
+[2023.08.26-18.14.18:736][402]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.08.26-18.14.18:776][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.26-18.14.18:825][402]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.26-18.14.19:061][402]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.26-18.14.19:110][402]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.08.26-18.14.19:111][402]LogSavePackage: Moving 'C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Saved/BP_ThirdPersonCharacter1FFC773241332E42014FB1AA1DFF71A4.tmp' to 'C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.08.26-18.14.19:116][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 340 ms (total: 6.26 sec)
+[2023.08.26-18.14.19:263][402]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.08.26-18.14.19:263][402]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.08.26-18.14.35:544][154]LogSlate: Window 'Add Content to the Project' being destroyed
+[2023.08.26-18.14.52:538][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.08.26-18.14.52:545][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.08.26-18.14.54:453][635]LogSlate: Window 'Save Content' being destroyed
+[2023.08.26-18.14.55:232][714]LogEditorViewport: Clicking Background
+[2023.08.26-18.14.55:415][734]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.26-18.14.55:463][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.08.26-18.14.55:466][734]LogSavePackage: Moving output files for package: /Game/myFirstProject/Level_01
+[2023.08.26-18.14.55:467][734]LogSavePackage: Moving 'C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Saved/Level_01E2CD0441464C0665E3B2DEA4EAB9F042.tmp' to 'C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/myFirstProject/Level_01.umap'
+[2023.08.26-18.14.55:476][734]LogFileHelpers: Saving map 'Level_01' took 0.019
+[2023.08.26-18.14.55:481][734]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 6.33 sec)
+[2023.08.26-18.14.55:484][734]AssetCheck: New page: Asset Save: Level_01
+[2023.08.26-18.14.55:484][734]LogContentValidation: Display: Validating /Script/Engine.World /Game/myFirstProject/Level_01.Level_01
+[2023.08.26-18.15.01:332][889]LogEditorViewport: Clicking Background
+[2023.08.26-18.15.01:941][959]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.26-18.15.01:944][959]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.26-18.15.01:944][959]PIE: New page: PIE session: Level_01 (Aug 26, 2023, 8:15:01 AM)
+[2023.08.26-18.15.01:975][959]LogPlayLevel: Creating play world package: /Game/myFirstProject/UEDPIE_0_Level_01
+[2023.08.26-18.15.01:976][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001080s)
+[2023.08.26-18.15.01:976][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myFirstProject/Level_01.Level_01 to /Game/myFirstProject/UEDPIE_0_Level_01.Level_01 (0.001116s)
+[2023.08.26-18.15.01:976][959]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.26-18.15.01:976][959]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.26-18.15.01:977][959]LogAIModule: Creating AISystem for world Level_01
+[2023.08.26-18.15.01:977][959]LogPlayLevel: PIE: World Init took: (0.000620s)
+[2023.08.26-18.15.01:982][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.08.26-18.15.01:982][959]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.08.26-18.15.01:982][959]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.26-18.15.01:982][959]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.26-18.15.01:982][959]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.26-18.15.01:982][959]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.26-18.15.01:982][959]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.26-18.15.01:982][959]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.26-18.15.01:982][959]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.26-18.15.01:982][959]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.26-18.15.01:983][959]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.26-18.15.01:983][959]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.26-18.15.01:983][959]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.26-18.15.01:984][959]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.26-18.15.02:003][959]LogAudioMixer: Display: Using Audio Hardware Device Wave Link System (Elgato Wave:3)
+[2023.08.26-18.15.02:004][959]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.26-18.15.02:004][959]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.26-18.15.02:004][959]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.26-18.15.02:004][959]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.08.26-18.15.02:004][959]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.08.26-18.15.02:005][959]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.08.26-18.15.02:005][959]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.08.26-18.15.02:005][959]LogInit: FAudioDevice initialized with ID 3.
+[2023.08.26-18.15.02:005][959]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level_01'.
+[2023.08.26-18.15.02:005][959]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2023.08.26-18.15.02:007][959]LogLoad: Game class is 'GameModeBase'
+[2023.08.26-18.15.02:008][959]LogWorld: Bringing World /Game/myFirstProject/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2023.08.26-13.15.02
+[2023.08.26-18.15.02:008][959]LogWorld: Bringing up level for play took: 0.000394
+[2023.08.26-18.15.02:009][959]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2023.08.26-18.15.02:010][959]PIE: Server logged in
+[2023.08.26-18.15.02:010][959]PIE: Play in editor total start time 0.066 seconds.
+[2023.08.26-18.15.02:021][959]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.15.02:021][959]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.15.02:022][959]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.15.02:022][959]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.15.02:022][959]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.15.02:022][959]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.15.02:023][959]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.15.03:426][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.26-18.15.03:426][110]LogWorld: BeginTearingDown for /Game/myFirstProject/UEDPIE_0_Level_01
+[2023.08.26-18.15.03:426][110]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.08.26-18.15.03:426][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.26-18.15.03:428][110]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.26-18.15.03:430][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.26-18.15.03:434][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.26-18.15.03:434][110]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2023.08.26-18.15.03:434][110]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.08.26-18.15.03:436][110]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.08.26-18.15.03:440][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.08.26-18.15.03:446][110]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.15.03:446][110]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.15.03:446][110]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.15.03:446][110]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.15.03:447][110]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.15.03:447][110]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.15.03:447][110]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.15.03:491][116]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.08.26-18.15.09:280][809]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2023.08.26-18.15.27:200][917]LogEditorViewport: Clicking Background
+[2023.08.26-18.15.35:151][973]LogEditorViewport: Clicking Background
+[2023.08.26-18.15.37:486][235]Cmd: SELECT NONE
+[2023.08.26-18.15.44:799][370]LogEditorViewport: Clicking Background
+[2023.08.26-18.15.46:600][574]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.08.26-18.15.46:600][574]Can't find target element.
+[2023.08.26-18.15.47:408][671]Cmd: TRANSACTION UNDO
+[2023.08.26-18.15.47:408][671]LogEditorTransaction: Undo Select None
+[2023.08.26-18.15.47:452][671]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.15.47:452][671]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.15.47:452][671]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.15.47:452][671]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.15.47:453][671]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.15.47:453][671]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.15.47:453][671]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.15.56:351][687]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.08.26-18.16.02:714][445]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.26-18.16.02:717][445]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.26-18.16.02:717][445]PIE: New page: PIE session: Level_01 (Aug 26, 2023, 8:16:02 AM)
+[2023.08.26-18.16.02:718][445]LogPlayLevel: Creating play world package: /Game/myFirstProject/UEDPIE_0_Level_01
+[2023.08.26-18.16.02:718][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000944s)
+[2023.08.26-18.16.02:718][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myFirstProject/Level_01.Level_01 to /Game/myFirstProject/UEDPIE_0_Level_01.Level_01 (0.000971s)
+[2023.08.26-18.16.02:718][445]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.26-18.16.02:718][445]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.26-18.16.02:719][445]LogAIModule: Creating AISystem for world Level_01
+[2023.08.26-18.16.02:719][445]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2023.08.26-18.16.02:724][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.08.26-18.16.02:725][445]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.08.26-18.16.02:725][445]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.26-18.16.02:725][445]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.26-18.16.02:725][445]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.26-18.16.02:725][445]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.26-18.16.02:725][445]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.26-18.16.02:725][445]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.26-18.16.02:725][445]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.26-18.16.02:725][445]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.26-18.16.02:725][445]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.26-18.16.02:725][445]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.26-18.16.02:725][445]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.26-18.16.02:727][445]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.26-18.16.02:745][445]LogAudioMixer: Display: Using Audio Hardware Device Wave Link System (Elgato Wave:3)
+[2023.08.26-18.16.02:745][445]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.26-18.16.02:745][445]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.26-18.16.02:745][445]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.26-18.16.02:746][445]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.08.26-18.16.02:746][445]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.08.26-18.16.02:747][445]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.08.26-18.16.02:747][445]LogInit: FAudioDevice initialized with ID 4.
+[2023.08.26-18.16.02:747][445]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.08.26-18.16.02:747][445]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level_01'.
+[2023.08.26-18.16.02:747][445]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2023.08.26-18.16.02:750][445]LogLoad: Game class is 'GameModeBase'
+[2023.08.26-18.16.02:750][445]LogWorld: Bringing World /Game/myFirstProject/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2023.08.26-13.16.02
+[2023.08.26-18.16.02:750][445]LogWorld: Bringing up level for play took: 0.000375
+[2023.08.26-18.16.02:751][445]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2023.08.26-18.16.02:752][445]PIE: Server logged in
+[2023.08.26-18.16.02:753][445]PIE: Play in editor total start time 0.035 seconds.
+[2023.08.26-18.16.02:793][445]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.02:793][445]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.02:793][445]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.02:794][445]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.02:794][445]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.02:794][445]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.02:795][445]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.02:795][445]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.02:795][445]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.02:795][445]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.02:796][445]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.07:725][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.26-18.16.07:725][ 16]LogWorld: BeginTearingDown for /Game/myFirstProject/UEDPIE_0_Level_01
+[2023.08.26-18.16.07:725][ 16]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.08.26-18.16.07:725][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.26-18.16.07:729][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.26-18.16.07:731][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.26-18.16.07:735][ 16]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.26-18.16.07:736][ 16]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2023.08.26-18.16.07:736][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.08.26-18.16.07:737][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.08.26-18.16.07:739][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.26-18.16.07:741][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.08.26-18.16.07:751][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.07:752][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.07:752][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.07:752][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.07:752][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.07:753][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.07:753][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.07:801][ 19]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.08.26-18.16.36:369][975]LogEditorViewport: Clicking Background
+[2023.08.26-18.16.36:967][ 44]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.26-18.16.36:971][ 44]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.26-18.16.36:971][ 44]PIE: New page: PIE session: Level_01 (Aug 26, 2023, 8:16:36 AM)
+[2023.08.26-18.16.37:014][ 44]LogPlayLevel: Creating play world package: /Game/myFirstProject/UEDPIE_0_Level_01
+[2023.08.26-18.16.37:015][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001068s)
+[2023.08.26-18.16.37:015][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myFirstProject/Level_01.Level_01 to /Game/myFirstProject/UEDPIE_0_Level_01.Level_01 (0.001104s)
+[2023.08.26-18.16.37:015][ 44]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.26-18.16.37:015][ 44]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.26-18.16.37:016][ 44]LogAIModule: Creating AISystem for world Level_01
+[2023.08.26-18.16.37:016][ 44]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2023.08.26-18.16.37:021][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.08.26-18.16.37:021][ 44]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.08.26-18.16.37:021][ 44]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.26-18.16.37:021][ 44]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.26-18.16.37:021][ 44]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.26-18.16.37:021][ 44]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.26-18.16.37:021][ 44]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.26-18.16.37:021][ 44]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.26-18.16.37:021][ 44]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.26-18.16.37:021][ 44]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.26-18.16.37:022][ 44]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.26-18.16.37:022][ 44]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.26-18.16.37:022][ 44]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.26-18.16.37:023][ 44]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.26-18.16.37:041][ 44]LogAudioMixer: Display: Using Audio Hardware Device Wave Link System (Elgato Wave:3)
+[2023.08.26-18.16.37:041][ 44]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.26-18.16.37:041][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.26-18.16.37:041][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.26-18.16.37:042][ 44]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.08.26-18.16.37:042][ 44]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.08.26-18.16.37:043][ 44]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.08.26-18.16.37:043][ 44]LogInit: FAudioDevice initialized with ID 5.
+[2023.08.26-18.16.37:043][ 44]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.08.26-18.16.37:043][ 44]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level_01'.
+[2023.08.26-18.16.37:043][ 44]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.08.26-18.16.37:045][ 44]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.26-18.16.37:045][ 44]LogWorld: Bringing World /Game/myFirstProject/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2023.08.26-13.16.37
+[2023.08.26-18.16.37:046][ 44]LogWorld: Bringing up level for play took: 0.000370
+[2023.08.26-18.16.37:047][ 44]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.08.26-18.16.37:065][ 44]PIE: Server logged in
+[2023.08.26-18.16.37:066][ 44]PIE: Play in editor total start time 0.095 seconds.
+[2023.08.26-18.16.37:083][ 44]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.37:084][ 44]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.37:084][ 44]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.37:086][ 44]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.37:086][ 44]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.37:087][ 44]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.37:087][ 44]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.37:087][ 44]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.37:087][ 44]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.37:088][ 44]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.37:088][ 44]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.39:515][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.26-18.16.39:515][319]LogWorld: BeginTearingDown for /Game/myFirstProject/UEDPIE_0_Level_01
+[2023.08.26-18.16.39:515][319]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.08.26-18.16.39:515][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.26-18.16.39:517][319]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.26-18.16.39:519][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.26-18.16.39:524][319]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.26-18.16.39:524][319]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.08.26-18.16.39:524][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.08.26-18.16.39:525][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.08.26-18.16.39:528][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.26-18.16.39:529][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.08.26-18.16.39:535][319]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.39:536][319]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.39:536][319]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.39:537][319]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.39:537][319]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.39:537][319]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.39:537][319]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.16.39:585][325]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.08.26-18.16.48:749][370]LogEditorViewport: Clicking Background
+[2023.08.26-18.16.48:750][370]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.08.26-18.16.48:750][370]Can't find target element.
+[2023.08.26-18.16.49:358][431]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.08.26-18.16.49:358][431]Can't find target element.
+[2023.08.26-18.16.49:601][459]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.08.26-18.16.49:601][459]Can't find target element.
+[2023.08.26-18.16.51:357][548]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.08.26-18.17.06:662][797]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.08.26-18.17.06:662][797]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.08.26-18.17.06:663][797]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/myFirstProject/Level_01.Level_01:PersistentLevel.PlayerStart_0
+[2023.08.26-18.17.06:663][797]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.08.26-18.17.06:664][797]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/myFirstProject/Level_01.Level_01:PersistentLevel.PlayerStart_0
+[2023.08.26-18.17.06:664][797]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.08.26-18.17.06:674][797]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.08.26-18.17.06:691][797]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.17.10:259][190]LogEditorViewport: Clicking Background
+[2023.08.26-18.17.17:931][ 86]LogEditorViewport: Clicking Background
+[2023.08.26-18.17.32:009][706]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.08.26-18.17.34:483][  1]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.08.26-18.17.44:556][161]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.08.26-18.17.46:081][342]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.26-18.17.46:085][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.26-18.17.46:085][342]PIE: New page: PIE session: Level_01 (Aug 26, 2023, 8:17:46 AM)
+[2023.08.26-18.17.46:085][342]LogPlayLevel: Creating play world package: /Game/myFirstProject/UEDPIE_0_Level_01
+[2023.08.26-18.17.46:086][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001013s)
+[2023.08.26-18.17.46:086][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myFirstProject/Level_01.Level_01 to /Game/myFirstProject/UEDPIE_0_Level_01.Level_01 (0.001037s)
+[2023.08.26-18.17.46:086][342]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.26-18.17.46:086][342]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.26-18.17.46:086][342]LogAIModule: Creating AISystem for world Level_01
+[2023.08.26-18.17.46:086][342]LogPlayLevel: PIE: World Init took: (0.000575s)
+[2023.08.26-18.17.46:093][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.08.26-18.17.46:094][342]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.08.26-18.17.46:094][342]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.26-18.17.46:094][342]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.26-18.17.46:094][342]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.26-18.17.46:094][342]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.26-18.17.46:094][342]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.26-18.17.46:094][342]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.26-18.17.46:094][342]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.26-18.17.46:094][342]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.26-18.17.46:094][342]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.26-18.17.46:094][342]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.26-18.17.46:094][342]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.26-18.17.46:095][342]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.26-18.17.46:114][342]LogAudioMixer: Display: Using Audio Hardware Device Wave Link System (Elgato Wave:3)
+[2023.08.26-18.17.46:114][342]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.26-18.17.46:114][342]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.26-18.17.46:114][342]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.26-18.17.46:115][342]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.08.26-18.17.46:115][342]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.08.26-18.17.46:116][342]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.08.26-18.17.46:116][342]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.08.26-18.17.46:116][342]LogInit: FAudioDevice initialized with ID 6.
+[2023.08.26-18.17.46:116][342]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level_01'.
+[2023.08.26-18.17.46:116][342]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.08.26-18.17.46:118][342]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.26-18.17.46:119][342]LogWorld: Bringing World /Game/myFirstProject/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2023.08.26-13.17.46
+[2023.08.26-18.17.46:119][342]LogWorld: Bringing up level for play took: 0.000391
+[2023.08.26-18.17.46:120][342]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.08.26-18.17.46:123][342]PIE: Server logged in
+[2023.08.26-18.17.46:124][342]PIE: Play in editor total start time 0.039 seconds.
+[2023.08.26-18.17.46:146][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.17.46:146][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.17.46:147][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.17.46:147][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.17.46:147][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.17.46:148][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.17.46:148][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.17.46:148][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.17.46:148][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.17.46:149][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.17.46:149][342]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.17.53:244][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.26-18.17.53:244][173]LogWorld: BeginTearingDown for /Game/myFirstProject/UEDPIE_0_Level_01
+[2023.08.26-18.17.53:244][173]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.08.26-18.17.53:244][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.26-18.17.53:248][173]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.26-18.17.53:250][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.26-18.17.53:255][173]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.26-18.17.53:255][173]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.08.26-18.17.53:255][173]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.08.26-18.17.53:256][173]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.08.26-18.17.53:259][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.26-18.17.53:260][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.08.26-18.17.53:272][173]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.17.53:273][173]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.17.53:273][173]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.17.53:273][173]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.17.53:274][173]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.17.53:274][173]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.17.53:274][173]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.17.53:274][173]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.17.53:318][176]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.08.26-18.17.54:835][358]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.08.26-18.18.01:962][196]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.08.26-18.18.14:137][630]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/myFirstProject/Level_01.Level_01:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0, from: Addition to navoctree)
+[2023.08.26-18.18.14:289][648]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/myFirstProject/Level_01.Level_01:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0, from: Remove from navoctree)
+[2023.08.26-18.18.24:232][734]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.26-18.18.24:236][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.26-18.18.24:236][734]PIE: New page: PIE session: Level_01 (Aug 26, 2023, 8:18:24 AM)
+[2023.08.26-18.18.24:274][734]LogPlayLevel: Creating play world package: /Game/myFirstProject/UEDPIE_0_Level_01
+[2023.08.26-18.18.24:275][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001089s)
+[2023.08.26-18.18.24:275][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/myFirstProject/Level_01.Level_01 to /Game/myFirstProject/UEDPIE_0_Level_01.Level_01 (0.001117s)
+[2023.08.26-18.18.24:275][734]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.26-18.18.24:275][734]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.26-18.18.24:275][734]LogAIModule: Creating AISystem for world Level_01
+[2023.08.26-18.18.24:276][734]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2023.08.26-18.18.24:281][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.08.26-18.18.24:281][734]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.08.26-18.18.24:281][734]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.26-18.18.24:281][734]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.26-18.18.24:281][734]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.26-18.18.24:281][734]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.26-18.18.24:281][734]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.26-18.18.24:281][734]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.26-18.18.24:281][734]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.26-18.18.24:281][734]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.26-18.18.24:282][734]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.26-18.18.24:282][734]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.26-18.18.24:282][734]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.26-18.18.24:283][734]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.26-18.18.24:302][734]LogAudioMixer: Display: Using Audio Hardware Device Wave Link System (Elgato Wave:3)
+[2023.08.26-18.18.24:302][734]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.26-18.18.24:302][734]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.26-18.18.24:302][734]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.26-18.18.24:303][734]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.08.26-18.18.24:303][734]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.08.26-18.18.24:304][734]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.08.26-18.18.24:304][734]LogInit: FAudioDevice initialized with ID 7.
+[2023.08.26-18.18.24:304][734]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.08.26-18.18.24:304][734]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level_01'.
+[2023.08.26-18.18.24:304][734]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.08.26-18.18.24:306][734]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.26-18.18.24:307][734]LogWorld: Bringing World /Game/myFirstProject/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2023.08.26-13.18.24
+[2023.08.26-18.18.24:307][734]LogWorld: Bringing up level for play took: 0.000416
+[2023.08.26-18.18.24:308][734]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2023.08.26-18.18.24:311][734]PIE: Server logged in
+[2023.08.26-18.18.24:312][734]PIE: Play in editor total start time 0.077 seconds.
+[2023.08.26-18.18.24:324][734]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.24:325][734]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.24:325][734]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.24:325][734]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.24:326][734]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.24:326][734]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.24:326][734]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.24:327][734]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.24:327][734]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.24:327][734]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.24:327][734]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.30:735][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.26-18.18.30:735][485]LogWorld: BeginTearingDown for /Game/myFirstProject/UEDPIE_0_Level_01
+[2023.08.26-18.18.30:735][485]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.08.26-18.18.30:735][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.26-18.18.30:738][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.26-18.18.30:740][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.26-18.18.30:746][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.26-18.18.30:746][485]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.08.26-18.18.30:746][485]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.08.26-18.18.30:747][485]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.08.26-18.18.30:751][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.08.26-18.18.30:763][485]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.30:763][485]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.30:763][485]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.30:764][485]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.30:764][485]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.30:764][485]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.30:764][485]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.30:765][485]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.30:789][487]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.08.26-18.18.39:858][871]LogEditorViewport: Clicking Background
+[2023.08.26-18.18.57:653][911]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.08.26-18.18.58:142][967]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.08.26-18.18.58:315][985]Cmd: ACTOR SELECT ALL
+[2023.08.26-18.18.58:640][ 18]Cmd: DUPLICATE
+[2023.08.26-18.18.58:640][ 18]Cmd: ACTOR DUPLICATE
+[2023.08.26-18.18.58:661][ 18]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.08.26-18.18.58:681][ 18]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.58:681][ 18]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.58:682][ 18]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.58:682][ 18]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.58:682][ 18]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.58:682][ 18]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.58:683][ 18]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.58:683][ 18]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.58:684][ 18]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.58:684][ 18]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.58:684][ 18]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.18.58:685][ 18]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.08.26-18.18.59:238][ 81]Cmd: ACTOR SELECT ALL
+[2023.08.26-18.19.00:192][183]LogEditorViewport: Clicking Background
+[2023.08.26-18.19.00:910][260]Cmd: TRANSACTION UNDO
+[2023.08.26-18.19.00:910][260]LogEditorTransaction: Undo Clicking Background
+[2023.08.26-18.19.00:977][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.00:977][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.00:977][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.00:978][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.00:978][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.00:978][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.00:979][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.00:979][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.00:979][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.00:980][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.00:980][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.01:677][306]Cmd: TRANSACTION UNDO
+[2023.08.26-18.19.01:677][306]LogEditorTransaction: Undo Select All
+[2023.08.26-18.19.01:692][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.01:692][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.01:692][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.01:693][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.01:693][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.01:693][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.01:694][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.01:694][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.01:694][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.01:694][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.01:695][306]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.02:507][389]Cmd: TRANSACTION UNDO
+[2023.08.26-18.19.02:507][389]LogEditorTransaction: Undo Duplicate Elements
+[2023.08.26-18.19.02:562][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.02:562][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.02:563][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.02:563][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.02:563][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.02:564][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.02:564][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.02:564][389]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.19.04:215][565]LogEditorViewport: Clicking Background
+[2023.08.26-18.19.27:026][ 52]LogEditorViewport: Clicking Background
+[2023.08.26-18.19.27:144][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.26-18.19.27:182][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.08.26-18.19.27:186][ 55]LogSavePackage: Moving output files for package: /Game/myFirstProject/Level_01
+[2023.08.26-18.19.27:186][ 55]LogSavePackage: Moving 'C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Saved/Level_019DE8D7924676EFD076F399AB3CB93B8F.tmp' to 'C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/myFirstProject/Level_01.umap'
+[2023.08.26-18.19.27:193][ 55]LogFileHelpers: Saving map 'Level_01' took 0.017
+[2023.08.26-18.19.27:202][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 6.39 sec)
+[2023.08.26-18.19.27:205][ 55]AssetCheck: New page: Asset Save: Level_01
+[2023.08.26-18.19.27:205][ 55]LogContentValidation: Display: Validating /Script/Engine.World /Game/myFirstProject/Level_01.Level_01
