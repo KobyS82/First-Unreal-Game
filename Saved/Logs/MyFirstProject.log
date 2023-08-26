@@ -2002,3 +2002,80 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.26-18.04.35:999][782]AssetCheck: New page: Asset Save: NewMap
 [2023.08.26-18.04.35:999][782]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewMap.NewMap
 [2023.08.26-18.04.36:001][782]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.06.27:458][912]LogEditor: Attempting to add actor of class 'SkyLight' to level at 0.00,0.00,0.00
+[2023.08.26-18.06.27:485][912]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.06.50:805][ 86]LogEditor: Attempting to add actor of class 'DirectionalLight' to level at 0.00,0.00,0.00
+[2023.08.26-18.06.50:824][ 86]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.06.52:592][291]LogEditor: Attempting to add actor of class 'SkyAtmosphere' to level at 0.00,0.00,0.00
+[2023.08.26-18.06.52:605][291]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.06.56:036][427]LogEditor: Attempting to add actor of class 'VolumetricCloud' to level at 0.00,0.00,0.00
+[2023.08.26-18.06.56:048][427]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.06.56:731][499]LogEditor: Attempting to add actor of class 'ExponentialHeightFog' to level at 0.00,0.00,0.00
+[2023.08.26-18.06.56:748][499]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.07.02:164][787]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2023.08.26-18.07.02:172][787]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2023.08.26-18.07.12:368][986]LogEditorViewport: Clicking Background
+[2023.08.26-18.07.12:555][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.26-18.07.12:592][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.26-18.07.12:597][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.08.26-18.07.12:602][  6]LogSavePackage: Moving output files for package: /Game/NewMap
+[2023.08.26-18.07.12:602][  6]LogSavePackage: Moving 'C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Saved/NewMapC8DC6E1744D12750F9B70B9ABFF7CA2E.tmp' to 'C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/NewMap.umap'
+[2023.08.26-18.07.12:611][  6]LogFileHelpers: Saving map 'NewMap' took 0.020
+[2023.08.26-18.07.12:617][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 5.79 sec)
+[2023.08.26-18.07.12:620][  6]AssetCheck: New page: Asset Save: NewMap
+[2023.08.26-18.07.12:620][  6]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewMap.NewMap
+[2023.08.26-18.07.21:371][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.26-18.07.21:424][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.26-18.07.21:429][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.08.26-18.07.21:433][972]LogSavePackage: Moving output files for package: /Game/NewMap
+[2023.08.26-18.07.21:433][972]LogSavePackage: Moving 'C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Saved/NewMap5922EE804ECFB17C1E3C79924F3EADDE.tmp' to 'C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/NewMap.umap'
+[2023.08.26-18.07.21:442][972]LogFileHelpers: Saving map 'NewMap' took 0.018
+[2023.08.26-18.07.21:446][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 5.87 sec)
+[2023.08.26-18.07.21:450][972]AssetCheck: New page: Asset Save: NewMap
+[2023.08.26-18.07.21:450][972]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewMap.NewMap
+[2023.08.26-18.08.36:358][324]LogSlate: Window 'Save Level As' being destroyed
+[2023.08.26-18.08.36:406][324]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.26-18.08.36:410][324]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.26-18.08.36:416][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.08.26-18.08.36:419][324]LogSavePackage: Moving output files for package: /Game/myFirstProject/Level_01
+[2023.08.26-18.08.36:419][324]LogSavePackage: Moving 'C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Saved/Level_01C3FBDEE84950AF299646BAA4F322E7AD.tmp' to 'C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/myFirstProject/Level_01.umap'
+[2023.08.26-18.08.36:430][324]LogFileHelpers: Saving map 'Level_01' took 0.066
+[2023.08.26-18.08.36:431][324]Cmd: MAP LOAD FILE="C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/myFirstProject/Level_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.08.26-18.08.36:431][324]LightingResults: New page: Lighting Build
+[2023.08.26-18.08.36:431][324]LoadErrors: New page: Loading map: Level_01.umap
+[2023.08.26-18.08.36:458][324]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2023.08.26-18.08.36:458][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.26-18.08.36:459][324]MapCheck: New page: Map Check
+[2023.08.26-18.08.36:459][324]LightingResults: New page: Lighting Build
+[2023.08.26-18.08.36:463][324]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.26-18.08.36:464][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.08.26-18.08.36:466][324]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2023.08.26-18.08.36:466][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.26-18.08.36:471][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.08.26-18.08.36:475][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.08.26-18.08.36:477][324]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_01'.
+[2023.08.26-18.08.36:477][324]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.26-18.08.36:477][324]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.26-18.08.36:477][324]LogAIModule: Creating AISystem for world Level_01
+[2023.08.26-18.08.36:482][324]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.08.26-18.08.36:487][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.08.26-18.08.36:489][324]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.08.26-18.08.36:489][324]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.095ms to complete.
+[2023.08.26-18.08.36:489][324]LogFileHelpers: Loading map 'Level_01' took 0.059
+[2023.08.26-18.08.36:492][324]AssetCheck: New page: Asset Save: Level_01
+[2023.08.26-18.08.36:492][324]LogContentValidation: Display: Validating /Script/Engine.World /Game/myFirstProject/Level_01.Level_01
+[2023.08.26-18.08.36:494][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.08.36:495][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.08.36:495][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.08.36:495][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.08.36:496][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.08.36:496][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.26-18.08.46:493][720]LogEditorViewport: Clicking Background
+[2023.08.26-18.08.46:620][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.26-18.08.46:660][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.08.26-18.08.46:663][731]LogSavePackage: Moving output files for package: /Game/myFirstProject/Level_01
+[2023.08.26-18.08.46:664][731]LogSavePackage: Moving 'C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Saved/Level_01B93657B645F0FB4CB3838D95226BAFD7.tmp' to 'C:/Users/kobys/Git-Repositories/UNREAL PROJECTS/MyFirstProject/Content/myFirstProject/Level_01.umap'
+[2023.08.26-18.08.46:671][731]LogFileHelpers: Saving map 'Level_01' took 0.015
+[2023.08.26-18.08.46:675][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 5.92 sec)
+[2023.08.26-18.08.46:678][731]AssetCheck: New page: Asset Save: Level_01
+[2023.08.26-18.08.46:678][731]LogContentValidation: Display: Validating /Script/Engine.World /Game/myFirstProject/Level_01.Level_01
